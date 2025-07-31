@@ -1,6 +1,6 @@
 # VPN Wireguard avec wg-easy
 
-Wireguard est un protocole VPN rapide, moderne et sécurisé. Pour simplifier son déploiement, nous utilisons **wg-easy**, une solution clé en main qui fournit une interface web d’administration et qui se déploie facilement via Docker.
+Wireguard est un protocole VPN rapide, moderne et sécurisé. Pour simplifier son déploiement, nous utilisons **wg-easy**, une solution clé en main qui fournit une interface web d’administration et qui se déploie facilement via docker.
 
 *Note : Il est aussi possible d’installer Wireguard directement sur un pare-feu pfSense ou OPNsense.*
 
