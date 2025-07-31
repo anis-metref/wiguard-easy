@@ -58,7 +58,7 @@ sudo docker compose up -d
 
 - Créez un client Wireguard directement depuis l’interface web.
 
-![Gestion des clients](./images/2.png)
+![Gestion des clients](./images/2.jpg)
 
 - Chaque client génère automatiquement une clé et un QR code pour une installation rapide sur les appareils mobiles.
 - Vous pouvez activer ou désactiver un client à tout moment.
