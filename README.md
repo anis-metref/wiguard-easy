@@ -61,6 +61,7 @@ sudo docker compose up -d
 
 - Chaque client génère automatiquement une clé et un QR code pour une installation rapide sur les appareils mobiles.
 - Vous pouvez activer ou désactiver un client à tout moment.
+- Surveillez le trafic Wireguard depuis l’interface de wg-easy.
 
 ![Gestion des clients](./images/2.jpg)
 
@@ -68,7 +69,6 @@ sudo docker compose up -d
 
 ## Supervision et métriques
 
-- Surveillez le trafic Wireguard depuis l’interface de wg-easy.
 - Il est possible d’exporter les métriques prometheus fournies par wg-easy vers un tableau grafana pour un suivi.
 
 ![Dashboard Grafana des métriques (exemple)](./images/3.png)
