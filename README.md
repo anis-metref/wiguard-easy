@@ -55,6 +55,7 @@ sudo docker compose up -d
 ## Gestion des clients Wireguard
 
 - Créez un client Wireguard directement depuis l’interface web.
+
 ![Configuration wg-easy](./images/1.png)
 
 
