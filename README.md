@@ -50,18 +50,19 @@ sudo docker compose up -d
 - Spécifiez l’interface d’écoute réseau de votre hôte (exemple : `eth1`).
 - Dans la section **hooks NAT**, indiquez le nom de l’interface Docker Wireguard (souvent `wg0`).
 
-![Configuration wg-easy](./images/1.png)
-
 ---
 
 ## Gestion des clients Wireguard
 
 - Créez un client Wireguard directement depuis l’interface web.
+![Configuration wg-easy](./images/1.png)
 
-![Gestion des clients](./images/2.jpg)
 
 - Chaque client génère automatiquement une clé et un QR code pour une installation rapide sur les appareils mobiles.
 - Vous pouvez activer ou désactiver un client à tout moment.
+
+![Gestion des clients](./images/2.jpg)
+
 ---
 
 ## Supervision et métriques
