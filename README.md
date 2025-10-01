@@ -73,7 +73,7 @@ sudo docker compose up -d
 
 ![Dashboard Grafana des métriques (exemple)](./images/3.png)
 
----
+
 
 ## Notes supplémentaires
 
